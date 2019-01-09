@@ -1,0 +1,12 @@
+{
+  "name": "fileResolve-infinity",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.1.5",
+    "meteor-node-stubs": "^0.4.1",
+    "mobx": "^5.8.0"
+  }
+}
